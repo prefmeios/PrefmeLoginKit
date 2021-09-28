@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "PrefmeLoginKit"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.3"
   spec.summary      = "This PrefmeLoginKit Framework"
 
   # This description is used to generate tags and improve search results.
