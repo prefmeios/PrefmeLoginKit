@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/PrefmeLoginKit-Swift.h</key>
 		<data>
-		9UE7jRN0QthJQHIH8MxPBZ6x+Sg=
+		3FxMj8m9qFd1lvwqhE/Fe5QRZjk=
 		</data>
 		<key>Headers/PrefmeLoginKit.h</key>
 		<data>
@@ -14,31 +14,55 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		lQo+HiwLOpLAyyPnPJAkvLzfMbg=
+		jkQHspsQIvQBWmd8V40va3MXG4Q=
 		</data>
-		<key>Modules/PrefmeLoginKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<key>Modules/PrefmeLoginKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		uH+qgdz+QNd7AwgquNzzRufVBBc=
+		cbXYX2BhF920+nWWTUNU4iOA5TE=
 		</data>
-		<key>Modules/PrefmeLoginKit.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<key>Modules/PrefmeLoginKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		fWaVyGqD9pWcvOfTjoAIkUv3dnw=
+		m3k6XO2US7LCXnZYlpVx7U21pNQ=
 		</data>
-		<key>Modules/PrefmeLoginKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<key>Modules/PrefmeLoginKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		+eQJkawAN3YDg+zifrgHgVihQQc=
+		F2xv4PUeHGGtp8jTGFY6iXzuIeU=
 		</data>
 		<key>Modules/PrefmeLoginKit.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		uH+qgdz+QNd7AwgquNzzRufVBBc=
+		cbXYX2BhF920+nWWTUNU4iOA5TE=
 		</data>
 		<key>Modules/PrefmeLoginKit.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		fWaVyGqD9pWcvOfTjoAIkUv3dnw=
+		m3k6XO2US7LCXnZYlpVx7U21pNQ=
 		</data>
 		<key>Modules/PrefmeLoginKit.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		+eQJkawAN3YDg+zifrgHgVihQQc=
+		F2xv4PUeHGGtp8jTGFY6iXzuIeU=
+		</data>
+		<key>Modules/PrefmeLoginKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		sZ8HJdZzGv5rwPl0jaaZ4Ab5Ov8=
+		</data>
+		<key>Modules/PrefmeLoginKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		KD/iZ8gshy4JLawcaVSLO5QgMHc=
+		</data>
+		<key>Modules/PrefmeLoginKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		zNJgovgFgVvROaHgtQhi0dWZYrA=
+		</data>
+		<key>Modules/PrefmeLoginKit.swiftmodule/x86_64.swiftdoc</key>
+		<data>
+		sZ8HJdZzGv5rwPl0jaaZ4Ab5Ov8=
+		</data>
+		<key>Modules/PrefmeLoginKit.swiftmodule/x86_64.swiftinterface</key>
+		<data>
+		KD/iZ8gshy4JLawcaVSLO5QgMHc=
+		</data>
+		<key>Modules/PrefmeLoginKit.swiftmodule/x86_64.swiftmodule</key>
+		<data>
+		zNJgovgFgVvROaHgtQhi0dWZYrA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,7 +75,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			i0GV02w3CDCv/rNa9m2TC1jQ47M3C7XGtVZm0b7I7ck=
+			jWWsf2ZMAANlOSbWIMCkiezLgwiNlqGaMdI+KLkG0xI=
 			</data>
 		</dict>
 		<key>Headers/PrefmeLoginKit.h</key>
@@ -61,46 +85,88 @@
 			Qny1aGlOvsBzPd9M7xy0xPlMrMolQcooZijU0q/L5mA=
 			</data>
 		</dict>
-		<key>Modules/PrefmeLoginKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<key>Modules/PrefmeLoginKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tENAa7PcmjoXSmLRByelH6OX4hgE7W7r1zdTH+Bn4vk=
+			J+3f1eSytIgrKYq/1nvKrk9pHp3bpx73jMzIyc7hBgo=
 			</data>
 		</dict>
-		<key>Modules/PrefmeLoginKit.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<key>Modules/PrefmeLoginKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			e2ru2wsgj6sxnOetM73zvNShiU6H4Ji7ldPnxwBq2EU=
+			9TdepbpA1BUpOe1bJrrwMtIIJpnred/5A3jYSDeGUxA=
 			</data>
 		</dict>
-		<key>Modules/PrefmeLoginKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<key>Modules/PrefmeLoginKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7x6rwvGpbnquRTiA5vM/bG7gqXYmkG6nd1gEF5eXotU=
+			2kQHfl8gv7+j9WRSKs8N2fGaWCVIQUHNLmekG7pctm4=
 			</data>
 		</dict>
 		<key>Modules/PrefmeLoginKit.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tENAa7PcmjoXSmLRByelH6OX4hgE7W7r1zdTH+Bn4vk=
+			J+3f1eSytIgrKYq/1nvKrk9pHp3bpx73jMzIyc7hBgo=
 			</data>
 		</dict>
 		<key>Modules/PrefmeLoginKit.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			e2ru2wsgj6sxnOetM73zvNShiU6H4Ji7ldPnxwBq2EU=
+			9TdepbpA1BUpOe1bJrrwMtIIJpnred/5A3jYSDeGUxA=
 			</data>
 		</dict>
 		<key>Modules/PrefmeLoginKit.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7x6rwvGpbnquRTiA5vM/bG7gqXYmkG6nd1gEF5eXotU=
+			2kQHfl8gv7+j9WRSKs8N2fGaWCVIQUHNLmekG7pctm4=
+			</data>
+		</dict>
+		<key>Modules/PrefmeLoginKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			H5pUslPAfPy8AzXHoaPRlsXY+ZFCOoZ3Xh1yQTtT2g8=
+			</data>
+		</dict>
+		<key>Modules/PrefmeLoginKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lJKKFLxIlCs3oAtl689kR+2d3lRKvSiF53yBIpYcjEk=
+			</data>
+		</dict>
+		<key>Modules/PrefmeLoginKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0U6Rqotf7sRY0Pcaw7QNEgXLUv6+/s3jXMW+KYppvck=
+			</data>
+		</dict>
+		<key>Modules/PrefmeLoginKit.swiftmodule/x86_64.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			H5pUslPAfPy8AzXHoaPRlsXY+ZFCOoZ3Xh1yQTtT2g8=
+			</data>
+		</dict>
+		<key>Modules/PrefmeLoginKit.swiftmodule/x86_64.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lJKKFLxIlCs3oAtl689kR+2d3lRKvSiF53yBIpYcjEk=
+			</data>
+		</dict>
+		<key>Modules/PrefmeLoginKit.swiftmodule/x86_64.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0U6Rqotf7sRY0Pcaw7QNEgXLUv6+/s3jXMW+KYppvck=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
