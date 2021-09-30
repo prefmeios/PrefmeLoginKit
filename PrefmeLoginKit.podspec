@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "PrefmeLoginKit"
-  s.version      = "1.0.8"
+  s.version      = "1.0.9"
   s.summary      = "PrefmeLoginKit for iOS"
   
   s.description  = <<-DESC
@@ -19,11 +19,11 @@ Pod::Spec.new do |s|
   #s.frameworks = 'UIKit', 'WebKit'
   #s.dependency 'Alamofire', '~> 4.8'
   #s.requires_arc     = true
-  # s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-  # s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64, x86_64, i386' }
+  s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64, x86_64, i386' }
 
   #s.vendored_frameworks = "PrefmeLoginKit.xcframework"
-  s.ios.vendored_frameworks = "PrefmeLoginKit.framework"
+  s.ios.vendored_frameworks = "PrefmeLoginKit.xcframework"
 
   #s.swift_version = "4.2"
 
