@@ -24,7 +24,7 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "PrefmeLoginKit",
-            url: "https://github.com/facebook/facebook-ios-sdk/releases/download/v1.0.9/PrefmeLoginKit.zip",
+            url: "https://github.com/facebook/facebook-ios-sdk/releases/download/1.0.9/PrefmeLoginKit.zip",
             checksum: "4661e8f164ec888a7a781bc707e9e434b8dab07f98c19e1385433bf6e92c9e55"
         ),
         .target(
